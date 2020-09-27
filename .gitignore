@@ -11,6 +11,9 @@
 # production
 /build
 
+# notes
+notes.notes
+
 # firebase
 .firebase/
 .firebaserc
